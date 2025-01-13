@@ -28,3 +28,6 @@
 [submodule "chibicc"]
 	path = chibicc
 	url = git@github.com:rui314/chibicc.git
+[submodule "btree"]
+	path = btree
+	url = git@github.com:google/btree.git
