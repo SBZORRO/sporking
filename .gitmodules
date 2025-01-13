@@ -52,3 +52,6 @@
 [submodule "minilisp"]
 	path = minilisp
 	url = git@github.com:rui314/minilisp.git
+[submodule "musl"]
+	path = musl
+	url = git://git.musl-libc.org/musl
