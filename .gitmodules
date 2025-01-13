@@ -13,3 +13,6 @@
 [submodule "awesome-cheatsheets"]
 	path = awesome-cheatsheets
 	url = git@github.com:skywind3000/awesome-cheatsheets.git
+[submodule "smallchat"]
+	path = smallchat
+	url = git@github.com:antirez/smallchat.git
