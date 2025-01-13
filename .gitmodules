@@ -4,3 +4,6 @@
 [submodule "Celeste"]
 	path = Celeste
 	url = git@github.com:NoelFB/Celeste.git
+[submodule "netty-mqtt"]
+	path = netty-mqtt
+	url = git@github.com:jeffreykog/netty-mqtt.git
