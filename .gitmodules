@@ -31,3 +31,6 @@
 [submodule "btree"]
 	path = btree
 	url = git@github.com:google/btree.git
+[submodule "simple-netty"]
+	path = simple-netty
+	url = git@github.com:binarywz/simple-netty.git
