@@ -37,3 +37,6 @@
 [submodule "KVM"]
 	path = KVM
 	url = git@github.com:Jessicahust/KVM.git
+[submodule "avlmini"]
+	path = avlmini
+	url = git@github.com:SBZORRO/avlmini.git
