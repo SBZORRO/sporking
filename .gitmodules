@@ -10,3 +10,6 @@
 [submodule "json-tutorial"]
 	path = json-tutorial
 	url = git@github.com:miloyip/json-tutorial.git
+[submodule "awesome-cheatsheets"]
+	path = awesome-cheatsheets
+	url = git@github.com:skywind3000/awesome-cheatsheets.git
