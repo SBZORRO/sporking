@@ -7,3 +7,6 @@
 [submodule "netty-mqtt"]
 	path = netty-mqtt
 	url = git@github.com:jeffreykog/netty-mqtt.git
+[submodule "json-tutorial"]
+	path = json-tutorial
+	url = git@github.com:miloyip/json-tutorial.git
