@@ -49,3 +49,6 @@
 [submodule "si78c"]
 	path = si78c
 	url = git@github.com:loadzero/si78c.git
+[submodule "minilisp"]
+	path = minilisp
+	url = git@github.com:rui314/minilisp.git
