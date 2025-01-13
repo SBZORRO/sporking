@@ -40,3 +40,6 @@
 [submodule "avlmini"]
 	path = avlmini
 	url = git@github.com:SBZORRO/avlmini.git
+[submodule "online-doc"]
+	path = online-doc
+	url = git@github.com:pku-minic/online-doc.git
