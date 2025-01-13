@@ -46,3 +46,6 @@
 [submodule "unpv13e"]
 	path = unpv13e
 	url = git@github.com:unpbook/unpv13e.git
+[submodule "si78c"]
+	path = si78c
+	url = git@github.com:loadzero/si78c.git
