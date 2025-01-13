@@ -22,3 +22,6 @@
 [submodule "kilo"]
 	path = kilo
 	url = git@github.com:antirez/kilo.git
+[submodule "git-from-the-bottom-up"]
+	path = git-from-the-bottom-up
+	url = git@github.com:jwiegley/git-from-the-bottom-up.git
