@@ -55,3 +55,6 @@
 [submodule "musl"]
 	path = musl
 	url = git://git.musl-libc.org/musl
+[submodule "The-Art-of-Linear-Algebra"]
+	path = The-Art-of-Linear-Algebra
+	url = git@github.com:kenjihiranabe/The-Art-of-Linear-Algebra.git
