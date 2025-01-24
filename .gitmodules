@@ -58,3 +58,9 @@
 [submodule "The-Art-of-Linear-Algebra"]
 	path = The-Art-of-Linear-Algebra
 	url = git@github.com:kenjihiranabe/The-Art-of-Linear-Algebra.git
+[submodule "frozen"]
+	path = frozen
+	url = git@github.com:cesanta/frozen.git
+[submodule "mongoose"]
+	path = mongoose
+	url = git@github.com:cesanta/mongoose.git
