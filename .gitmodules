@@ -64,3 +64,6 @@
 [submodule "mongoose"]
 	path = mongoose
 	url = git@github.com:cesanta/mongoose.git
+[submodule "asm-lessons"]
+	path = asm-lessons
+	url = git@github.com:FFmpeg/asm-lessons.git
