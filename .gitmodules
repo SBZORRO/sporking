@@ -67,3 +67,12 @@
 [submodule "linux"]
 	path = linux
 	url = git@github.com:torvalds/linux.git
+[submodule "frozen"]
+	path = frozen
+	url = git@github.com:cesanta/frozen.git
+[submodule "mongoose"]
+	path = mongoose
+	url = git@github.com:cesanta/mongoose.git
+[submodule "asm-lessons"]
+	path = asm-lessons
+	url = git@github.com:FFmpeg/asm-lessons.git
