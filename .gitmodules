@@ -58,3 +58,12 @@
 [submodule "The-Art-of-Linear-Algebra"]
 	path = The-Art-of-Linear-Algebra
 	url = git@github.com:kenjihiranabe/The-Art-of-Linear-Algebra.git
+[submodule "raft"]
+	path = raft
+	url = git@github.com:eliben/raft.git
+[submodule "jdk"]
+	path = jdk
+	url = git@github.com:openjdk/jdk.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:torvalds/linux.git
