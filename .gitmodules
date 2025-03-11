@@ -76,3 +76,6 @@
 [submodule "asm-lessons"]
 	path = asm-lessons
 	url = git@github.com:FFmpeg/asm-lessons.git
+[submodule "ttt-rl"]
+	path = ttt-rl
+	url = git@github.com:antirez/ttt-rl.git
