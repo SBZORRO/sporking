@@ -79,3 +79,9 @@
 [submodule "ttt-rl"]
 	path = ttt-rl
 	url = git@github.com:antirez/ttt-rl.git
+[submodule "emacs-bedrock"]
+	path = emacs-bedrock
+	url = https://git.sr.ht/~ashton314/emacs-bedrock
+[submodule "richii.el"]
+	path = richii.el
+	url = git@github.com:tokamach/richii.el.git
