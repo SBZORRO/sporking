@@ -39,7 +39,7 @@
 	url = git@github.com:Jessicahust/KVM.git
 [submodule "avlmini"]
 	path = avlmini
-	url = git@github.com:SBZORRO/avlmini.git
+	url = git@github.com:skywind3000/avlmini.git
 [submodule "online-doc"]
 	path = online-doc
 	url = git@github.com:pku-minic/online-doc.git
