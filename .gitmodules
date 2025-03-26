@@ -58,6 +58,15 @@
 [submodule "The-Art-of-Linear-Algebra"]
 	path = The-Art-of-Linear-Algebra
 	url = git@github.com:kenjihiranabe/The-Art-of-Linear-Algebra.git
+[submodule "raft"]
+	path = raft
+	url = git@github.com:eliben/raft.git
+[submodule "jdk"]
+	path = jdk
+	url = git@github.com:openjdk/jdk.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:torvalds/linux.git
 [submodule "frozen"]
 	path = frozen
 	url = git@github.com:cesanta/frozen.git
@@ -67,3 +76,12 @@
 [submodule "asm-lessons"]
 	path = asm-lessons
 	url = git@github.com:FFmpeg/asm-lessons.git
+[submodule "ttt-rl"]
+	path = ttt-rl
+	url = git@github.com:antirez/ttt-rl.git
+[submodule "emacs-bedrock"]
+	path = emacs-bedrock
+	url = https://git.sr.ht/~ashton314/emacs-bedrock
+[submodule "richii.el"]
+	path = richii.el
+	url = git@github.com:tokamach/richii.el.git
