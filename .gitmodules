@@ -85,3 +85,6 @@
 [submodule "richii.el"]
 	path = richii.el
 	url = git@github.com:tokamach/richii.el.git
+[submodule "emacs-solo"]
+	path = emacs-solo
+	url = git@github.com:LionyxML/emacs-solo.git
