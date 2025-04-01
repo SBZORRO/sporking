@@ -88,3 +88,6 @@
 [submodule "emacs-solo"]
 	path = emacs-solo
 	url = git@github.com:LionyxML/emacs-solo.git
+[submodule "eclipse.jdt.ls"]
+	path = eclipse.jdt.ls
+	url = git@github.com:eclipse-jdtls/eclipse.jdt.ls.git
