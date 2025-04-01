@@ -91,3 +91,6 @@
 [submodule "eclipse.jdt.ls"]
 	path = eclipse.jdt.ls
 	url = git@github.com:eclipse-jdtls/eclipse.jdt.ls.git
+[submodule "eclipse-jdt-core-incubator"]
+	path = eclipse-jdt-core-incubator
+	url = git@github.com:eclipse-jdtls/eclipse-jdt-core-incubator.git
