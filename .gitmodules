@@ -97,3 +97,6 @@
 [submodule "hacktical-c"]
 	path = hacktical-c
 	url = git@github.com:codr7/hacktical-c.git
+[submodule "xv6-riscv"]
+	path = xv6-riscv
+	url = git@github.com:mit-pdos/xv6-riscv.git
