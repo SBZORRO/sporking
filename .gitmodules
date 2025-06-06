@@ -100,3 +100,6 @@
 [submodule "xv6-riscv"]
 	path = xv6-riscv
 	url = git@github.com:mit-pdos/xv6-riscv.git
+[submodule "Embedded-Engineering-Roadmap"]
+	path = Embedded-Engineering-Roadmap
+	url = git@github.com:m3y54m/Embedded-Engineering-Roadmap.git
