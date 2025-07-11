@@ -103,3 +103,6 @@
 [submodule "Embedded-Engineering-Roadmap"]
 	path = Embedded-Engineering-Roadmap
 	url = git@github.com:m3y54m/Embedded-Engineering-Roadmap.git
+[submodule "historical-redis-versions"]
+	path = historical-redis-versions
+	url = git@github.com:antirez/historical-redis-versions.git
