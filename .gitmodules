@@ -106,3 +106,6 @@
 [submodule "historical-redis-versions"]
 	path = historical-redis-versions
 	url = git@github.com:antirez/historical-redis-versions.git
+[submodule "linux-insides"]
+	path = linux-insides
+	url = git@github.com:0xAX/linux-insides.git
