@@ -112,3 +112,6 @@
 [submodule "xv6-riscv-book"]
 	path = xv6-riscv-book
 	url = git@github.com:mit-pdos/xv6-riscv-book.git
+[submodule "async-profiler"]
+	path = async-profiler
+	url = git@github.com:async-profiler/async-profiler.git
